@@ -1,4 +1,4 @@
-# Chris Titus Tech's Windows Utility
+# Chris Titus Tech's Windows Utility (Úbersetzt von Sergius)
 
 This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky about any contributions to keep this project clean and efficient. 
 
