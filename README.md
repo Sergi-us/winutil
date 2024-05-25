@@ -1,12 +1,12 @@
 # Chris Titus Tech's Windows Utility (Übersetzt von Sergius)
 
-This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky about any contributions to keep this project clean and efficient. 
+Dieses Dienstprogramm ist eine Zusammenstellung von Windows task's, die ich auf jedem von mir verwendeten Windows-System durchführe. Es ist dazu gedacht, Installationen zu vereinfachen, mit Tweaks zu debloaten, Fehler mit der Konfiguration zu beheben und Windows-Updates zu reparieren. Ich bin extrem wählerisch, was Beiträge angeht, um dieses Projekt sauber und effizient zu halten.
 
 ![screen-install](screen-install.png)
 
-## Usage
+## Nutzung
 
-Winutil must be run in Admin mode because it performs system-wide tweaks. To achieve this, open PowerShell or Windows Terminal as an administrator. Here are a few ways to do it:
+**Winutil** muss im _Administratormodus_ ausgeführt werden, da es systemweite Anpassungen vornimmt. Dazu müssen Sie PowerShell oder Windows Terminal als Administrator öffnen. Hier sind einige Möglichkeiten, dies zu tun:
 
 1. **Right-Click Method:**
    - Right-click on the start menu.
