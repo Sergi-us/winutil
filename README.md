@@ -7,8 +7,7 @@ Um meinen Fork der **WinUtils** zu nutzen:
 ```
 irm https://raw.githubusercontent.com/Sergi-us/winutil/main/winutil.ps1 | iex
 ```
-
-
+Wenn du nicht weißt was zu tun ist, lies dir einmal die ## Nutzung durch
 ![screen-install](screen-install.png)
 
 ## Nutzung
