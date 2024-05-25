@@ -2,6 +2,12 @@
 
 Dieses Dienstprogramm ist eine Zusammenstellung von Windows task's, die ich auf jedem von mir verwendeten Windows-System durchführe. Es ist dazu gedacht, Installationen zu vereinfachen, mit Tweaks zu debloaten, Fehler mit der Konfiguration zu beheben und Windows-Updates zu reparieren. Ich bin extrem wählerisch, was Beiträge angeht, um dieses Projekt sauber und effizient zu halten.
 
+Um meinen Fork der **WinUtils** zu nutzen:
+
+```
+irm https://raw.githubusercontent.com/Sergi-us/winutil/main/winutil.ps1 | iex
+```
+
 ![screen-install](screen-install.png)
 
 ## Nutzung
