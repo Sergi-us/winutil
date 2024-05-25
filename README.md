@@ -27,7 +27,7 @@ Wenn du nicht weißt was zu tun ist, lies dir einmal die **Nutzung** durch
 
 ### Launch Command
 
-#### Simple way
+#### Simple way (damit lädst du den Code von Chris seiner Webseite *christitus.com/win* herunder)
 
 ```
 irm https://christitus.com/win | iex
