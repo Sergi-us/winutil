@@ -6238,7 +6238,7 @@ $sync.configs.applications = '{
     "category": "Development",
     "choco": "neovim",
     "content": "Neovim",
-    "description": "Neovim is a highly extensible text editor and an improvement over the original Vim editor.",
+    "description": "Neovim ist ein hochgradig erweiterbarer Texteditor und eine Verbesserung gegenüber dem ursprünglichen Vim-Editor.",
     "link": "https://neovim.io/",
     "winget": "Neovim.Neovim"
   },
